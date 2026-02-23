@@ -6,5 +6,6 @@ int main (){ //mulai langkah
 
     //langkah 2
     cout << "Masukkan panjang: ";
+    cin >> p;
 
 }
