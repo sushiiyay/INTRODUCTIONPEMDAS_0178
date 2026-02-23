@@ -10,4 +10,5 @@ int main (){ //mulai langkah
 
     //langkah 3
 cout << "Masukkan lebar: ";
+cin >> 1;
 }
