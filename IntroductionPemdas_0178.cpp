@@ -3,8 +3,10 @@
 using namespace std;
 
 //variable global
+string nama;
+
+int main (){ //program utama
 
 
-
-
+}
 //selesai
