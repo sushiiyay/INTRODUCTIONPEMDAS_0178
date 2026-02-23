@@ -6,7 +6,7 @@ using namespace std;
 string nama;
 
 int main (){ //program utama
-
+int age; //variable local
 
 }
 //selesai
