@@ -14,5 +14,6 @@ age1 = 15;
 cout << "Halo World" << endl;
 cout << 99 << endl;
 cout << age;
+cout << age1;
 }
 //selesai
