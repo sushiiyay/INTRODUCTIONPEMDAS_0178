@@ -9,5 +9,5 @@ int main (){ //mulai langkah
     cin >> p;
 
     //langkah 3
-
+cout << "Masukkan lebar: ";
 }
