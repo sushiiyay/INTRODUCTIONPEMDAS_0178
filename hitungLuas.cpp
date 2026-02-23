@@ -8,4 +8,6 @@ int main (){ //mulai langkah
     cout << "Masukkan panjang: ";
     cin >> p;
 
+    //langkah 3
+
 }
